@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxrwxrwx file
+-rwx--x--x file
